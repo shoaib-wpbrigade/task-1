@@ -39,5 +39,28 @@ echo $height;
 
 //constant
 define('myname', 'Shoaib');
-echo "<br> ". myname;
+echo "<br> ". myname."<br>";
+
+//                                operators
+$int= 8;
+
+$y=$int++;// post increament
+
+echo $int. " after increament<br>";
+echo $y;//8
+
+//                           switch statements
+$favcar= "Audi";
+switch($favcar){
+case "honda":
+	echo "your favorite car is honda";
+	break;
+case "Audi":
+	echo "Your favorite car is Audi";
+	break;
+default:
+	echo "I dont know your favorite car";
+
+
+}
 ?>
