@@ -47,7 +47,7 @@ $int= 8;
 $y=$int++;// post increament
 
 echo $int. " after increament<br>";
-echo $y;//8
+echo $y. " post increament <br>";//8
 
 //                           switch statements
 $favcar= "Audi";
