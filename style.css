@@ -26,6 +26,7 @@ button{
 	margin-left: 250px;
 	margin-top: 200px;
 	color: black;
+	cursor: pointer;
 }
 span{
 	color: red;
