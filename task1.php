@@ -16,6 +16,5 @@ echo $fullname;
 /*
 this also a 
 double line comment
-
 */
 ?>

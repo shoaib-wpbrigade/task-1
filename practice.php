@@ -60,7 +60,5 @@ case "Audi":
 	break;
 default:
 	echo "I dont know your favorite car";
-
-
 }
 ?>

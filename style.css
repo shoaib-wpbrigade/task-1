@@ -10,7 +10,7 @@ form{
 body{
 	background-image: url(a.jpg);
 }
-input{
+#text{
 	height: 30px;
 	width: 300px;
 	border-radius: 5px;
@@ -29,7 +29,7 @@ button{
 	cursor: pointer;
 }
 span{
-	color: red;
+	color:red;
 }
 label{
 font-size: 15pt;
